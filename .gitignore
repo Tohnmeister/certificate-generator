@@ -174,3 +174,12 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+# Created by https://www.toptal.com/developers/gitignore/api/pycharm
+# Edit at https://www.toptal.com/developers/gitignore?templates=pycharm
+
+# When testing, I put and generate PDFs inside the source folder. They must not be added to the repo.
+*.pdf
+
+# PyCharm
+.idea
